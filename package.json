@@ -1,0 +1,19 @@
+{
+  "name": "test-med-cof",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key 274c785e-459a-4ad5-9763-146bda4e5311"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.13.0",
+    "cypress-real-events": "^1.13.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
