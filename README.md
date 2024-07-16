@@ -21,3 +21,9 @@ O projeto de automação é organizado da seguinte forma:
 - `cypress/e2e`: Esta pasta contém os arquivos de teste Cypress.
 - `cypress/support`: Aqui esta armazenado, comandos personalizados e elementos separados por pagina.
 - `cypress.json`: Arquivo de configuração Cypress para definir configurações globais.
+
+#Script de teste
+
+- validaFormularioSimulado verifica se o formulário está funcionando corretamente
+- validaHomePage verifica se a página inicial está abrindo corretamente e carregando os itens
+- validaPopupErro verifica se o popup de dados não preenchidos ou preenchidos incorretamente está sendo exibido e permanecendo na mesma tela 
