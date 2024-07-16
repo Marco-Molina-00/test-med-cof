@@ -6,3 +6,10 @@ export const ELEMENTS = {
     inputCelular: '#form-field-telefone',
     btnCriarConta: 'form button'
 };
+
+export const ELEMENTS1 = {
+  logMedCofAcademy:
+    '.elementor-widget-container > img[alt="logo-medcof-academy"]',
+  acessarGratuitamente: ".elementor-button-text",
+};
+

@@ -5,6 +5,5 @@ export const ELEMENTS = {
     sectionCursos: '#cursos-section',
     menuConteudos: '#conteudos',
     linkMedCofAcademy:'a[href="https://www.grupomedcof.com.br/simulado-multimidia-unifesp"] ',
-    txtMedCofAcademy:'a[href="https://www.grupomedcof.com.br/simulado-multimidia-unifesp"] > span'
-   
+    txtMedCofAcademy:'a[href="https://www.grupomedcof.com.br/simulado-multimidia-unifesp"] > span',   
 }
